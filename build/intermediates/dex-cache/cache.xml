@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/guto/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/guto/AndroidStudioProjects/PrevisaoDoTempo/app/build/intermediates/pre-dexed/release/support-annotations-23.0.1-46d3f77cd9564f4c5cf446688f0a4378c83e70a5.jar" />
+    </item>
+    <item
+        jar="/home/guto/AndroidStudioProjects/PrevisaoDoTempo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/guto/AndroidStudioProjects/PrevisaoDoTempo/app/build/intermediates/pre-dexed/release/classes-773117687214c06642dd7a7232c8cf237815430b.jar" />
+    </item>
+    <item
+        jar="/home/guto/AndroidStudioProjects/PrevisaoDoTempo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/guto/AndroidStudioProjects/PrevisaoDoTempo/app/build/intermediates/pre-dexed/release/internal_impl-23.0.1-67313490fe3c9695db4ffbd795878636b4dff6c4.jar" />
+    </item>
+    <item
+        jar="/home/guto/AndroidStudioProjects/PrevisaoDoTempo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/guto/AndroidStudioProjects/PrevisaoDoTempo/app/build/intermediates/pre-dexed/release/classes-3ad1b5d145a10d202d99d5b5e2bcc99dea511841.jar" />
+    </item>
+
+</items>
